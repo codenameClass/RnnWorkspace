@@ -1,0 +1,15 @@
+C:\Developer\git\aa_monitored\w_bignited\RnnWorkspace\dotnetcore\src\shared\Rnn.Client\bin\Debug\net6.0\Rnn.Client.deps.json
+C:\Developer\git\aa_monitored\w_bignited\RnnWorkspace\dotnetcore\src\shared\Rnn.Client\bin\Debug\net6.0\Rnn.Client.dll
+C:\Developer\git\aa_monitored\w_bignited\RnnWorkspace\dotnetcore\src\shared\Rnn.Client\bin\Debug\net6.0\Rnn.Client.pdb
+C:\Developer\git\aa_monitored\w_bignited\RnnWorkspace\dotnetcore\src\shared\Rnn.Client\bin\Debug\net6.0\Rnn.Contracts.dll
+C:\Developer\git\aa_monitored\w_bignited\RnnWorkspace\dotnetcore\src\shared\Rnn.Client\bin\Debug\net6.0\Rnn.Contracts.pdb
+C:\Developer\git\aa_monitored\w_bignited\RnnWorkspace\dotnetcore\src\shared\Rnn.Client\obj\Debug\net6.0\Rnn.Client.csproj.AssemblyReference.cache
+C:\Developer\git\aa_monitored\w_bignited\RnnWorkspace\dotnetcore\src\shared\Rnn.Client\obj\Debug\net6.0\Rnn.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Developer\git\aa_monitored\w_bignited\RnnWorkspace\dotnetcore\src\shared\Rnn.Client\obj\Debug\net6.0\Rnn.Client.AssemblyInfoInputs.cache
+C:\Developer\git\aa_monitored\w_bignited\RnnWorkspace\dotnetcore\src\shared\Rnn.Client\obj\Debug\net6.0\Rnn.Client.AssemblyInfo.cs
+C:\Developer\git\aa_monitored\w_bignited\RnnWorkspace\dotnetcore\src\shared\Rnn.Client\obj\Debug\net6.0\Rnn.Client.csproj.CoreCompileInputs.cache
+C:\Developer\git\aa_monitored\w_bignited\RnnWorkspace\dotnetcore\src\shared\Rnn.Client\obj\Debug\net6.0\Rnn.Client.csproj.CopyComplete
+C:\Developer\git\aa_monitored\w_bignited\RnnWorkspace\dotnetcore\src\shared\Rnn.Client\obj\Debug\net6.0\Rnn.Client.dll
+C:\Developer\git\aa_monitored\w_bignited\RnnWorkspace\dotnetcore\src\shared\Rnn.Client\obj\Debug\net6.0\refint\Rnn.Client.dll
+C:\Developer\git\aa_monitored\w_bignited\RnnWorkspace\dotnetcore\src\shared\Rnn.Client\obj\Debug\net6.0\Rnn.Client.pdb
+C:\Developer\git\aa_monitored\w_bignited\RnnWorkspace\dotnetcore\src\shared\Rnn.Client\obj\Debug\net6.0\ref\Rnn.Client.dll

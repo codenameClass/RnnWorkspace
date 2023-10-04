@@ -1,0 +1,11 @@
+C:\Developer\git\aa_monitored\w_bignited\RnnWorkspace\dotnetcore\src\shared\Rnn.Contracts\bin\Debug\net6.0\Rnn.Contracts.deps.json
+C:\Developer\git\aa_monitored\w_bignited\RnnWorkspace\dotnetcore\src\shared\Rnn.Contracts\bin\Debug\net6.0\Rnn.Contracts.dll
+C:\Developer\git\aa_monitored\w_bignited\RnnWorkspace\dotnetcore\src\shared\Rnn.Contracts\bin\Debug\net6.0\Rnn.Contracts.pdb
+C:\Developer\git\aa_monitored\w_bignited\RnnWorkspace\dotnetcore\src\shared\Rnn.Contracts\obj\Debug\net6.0\Rnn.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Developer\git\aa_monitored\w_bignited\RnnWorkspace\dotnetcore\src\shared\Rnn.Contracts\obj\Debug\net6.0\Rnn.Contracts.AssemblyInfoInputs.cache
+C:\Developer\git\aa_monitored\w_bignited\RnnWorkspace\dotnetcore\src\shared\Rnn.Contracts\obj\Debug\net6.0\Rnn.Contracts.AssemblyInfo.cs
+C:\Developer\git\aa_monitored\w_bignited\RnnWorkspace\dotnetcore\src\shared\Rnn.Contracts\obj\Debug\net6.0\Rnn.Contracts.csproj.CoreCompileInputs.cache
+C:\Developer\git\aa_monitored\w_bignited\RnnWorkspace\dotnetcore\src\shared\Rnn.Contracts\obj\Debug\net6.0\Rnn.Contracts.dll
+C:\Developer\git\aa_monitored\w_bignited\RnnWorkspace\dotnetcore\src\shared\Rnn.Contracts\obj\Debug\net6.0\refint\Rnn.Contracts.dll
+C:\Developer\git\aa_monitored\w_bignited\RnnWorkspace\dotnetcore\src\shared\Rnn.Contracts\obj\Debug\net6.0\Rnn.Contracts.pdb
+C:\Developer\git\aa_monitored\w_bignited\RnnWorkspace\dotnetcore\src\shared\Rnn.Contracts\obj\Debug\net6.0\ref\Rnn.Contracts.dll

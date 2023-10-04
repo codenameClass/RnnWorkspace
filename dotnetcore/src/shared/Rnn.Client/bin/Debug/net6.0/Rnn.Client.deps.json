@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Rnn.Client/1.0.0": {
+        "dependencies": {
+          "Rnn.Contracts": "1.0.0"
+        },
+        "runtime": {
+          "Rnn.Client.dll": {}
+        }
+      },
+      "Rnn.Contracts/1.0.0": {
+        "runtime": {
+          "Rnn.Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Rnn.Client/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Rnn.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
